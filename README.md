@@ -1,21 +1,31 @@
 <h3 align="center">Hey 👋, I'm Maram Jebali.</h3>
 
-<div data-importer="socials" align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/jebali-maram-2182b62a7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href=" jebali.maram@esprit.tn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  <a href="mailto:jebali.maram@esprit.tn">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="25" alt="outlook logo" />
   </a>
-  <a href="maramjebali711@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:maramjebali711@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="maramjebali" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://discord.com/users/maramjebali" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
   </a>
 </div>
 
-###
+<br />
+
+<!-- Animated Star Field -->
+<p align="center">
+  <img
+    src="YOUR_STAR_ANIMATION_URL"
+    width="100%"
+    alt="Animated star field"
+  />
+</p>
+
 <br />
 
 - I am a **Software Engineering student specialized in Artificial Intelligence**.
@@ -24,7 +34,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I'm currently learning **shaping ready to use Ai systems**.
+- 🌱 I'm currently learning **shaping ready-to-use AI systems**.
 - 🔭 I'm currently interested in building **AI applications for aerospace and quantum technologies**.
 - 💻 I'm exploring the intersection of **AI and quantum computing**.
 - 🎓 Open to **end-of-study internship opportunities in AI & Software Engineering**.
