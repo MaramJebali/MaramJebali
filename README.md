@@ -3,20 +3,6 @@
 
 ### Hey 👋, I'm Maram Jebali.
 
-<a href="https://www.linkedin.com/in/jebali-maram-2182b62a7/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/MaramJebali">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="mailto:jebali.maram@esprit.tn">
-  <img align="left" alt="Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftoutlook.svg" />
-</a>
-<a href="mailto:maramjebali711@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
-</a>
-
-<br />
 <br />
 
 - I am a **Software Engineering student specialized in Artificial Intelligence**.
