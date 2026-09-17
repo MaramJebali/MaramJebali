@@ -17,14 +17,17 @@
 
 <br />
 
-<!-- Animated Star Field -->
+<br />
+
 <p align="center">
   <img
-    src="YOUR_STAR_ANIMATION_URL"
+    src="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/stars.svg"
     width="100%"
     alt="Animated star field"
   />
 </p>
+
+<br />
 
 <br />
 
