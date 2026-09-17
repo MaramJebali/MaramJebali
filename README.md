@@ -1,6 +1,3 @@
-<br clear="both">
-
-
 ### Hey 👋, I'm Maram Jebali.
 
 <br />
