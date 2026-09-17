@@ -13,9 +13,9 @@
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I'm currently learning **how to apply Quantum Computing to AI systems**.
+- 🌱 I'm currently learning ** shaping ready to use Ai systems **.
 - 🔭 I'm currently interested in building **AI applications for aerospace and quantum technologies**.
-- 💻 I'm exploring the intersection of **AI, applied mathematics, aerospace and quantum computing**.
+- 💻 I'm exploring the intersection of **AI and quantum computing**.
 - 🎓 Open to **end-of-study internship opportunities in AI & Software Engineering**.
 
 <p data-importer="text" align="right"></p>
