@@ -3,8 +3,6 @@
 <br />
 
 - I am a **Software Engineering student specialized in Artificial Intelligence**.
-- I like building **intelligent systems** and turning ideas into real-world solutions.
-- I enjoy working with **AI, Machine Learning, Deep Learning and Generative AI**.
 - I started exploring programming and AI through **projects, experiments and hackathons**.
 - Over time, I realized that I genuinely **love exploring new fields, diving into applied mathematics, and discovering research ❤️**.
 
