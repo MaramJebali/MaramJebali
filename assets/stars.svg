@@ -1,0 +1,134 @@
+<svg width="1200" height="180"
+     viewBox="0 0 1200 180"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="1200" height="180" fill="#050816"/>
+
+  <g fill="#ffffff">
+
+    <circle cx="80" cy="-10" r="2">
+      <animate attributeName="cy"
+               from="-10" to="190"
+               dur="5s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="180" cy="-20" r="1.5">
+      <animate attributeName="cy"
+               from="-20" to="190"
+               dur="7s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="310" cy="-15" r="2">
+      <animate attributeName="cy"
+               from="-15" to="190"
+               dur="4s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="450" cy="-30" r="1.5">
+      <animate attributeName="cy"
+               from="-30" to="190"
+               dur="8s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="600" cy="-10" r="2">
+      <animate attributeName="cy"
+               from="-10" to="190"
+               dur="6s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="760" cy="-25" r="1.5">
+      <animate attributeName="cy"
+               from="-25" to="190"
+               dur="5s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="900" cy="-15" r="2">
+      <animate attributeName="cy"
+               from="-15" to="190"
+               dur="7s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1040" cy="-30" r="1.5">
+      <animate attributeName="cy"
+               from="-30" to="190"
+               dur="4s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1150" cy="-10" r="2">
+      <animate attributeName="cy"
+               from="-10" to="190"
+               dur="6s"
+               repeatCount="indefinite"/>
+    </circle>
+
+  </g>
+
+  <g fill="#58a6ff">
+    <circle cx="140" cy="40" r="2">
+      <animate attributeName="opacity"
+               values="0.2;1;0.2"
+               dur="2s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="520" cy="100" r="2">
+      <animate attributeName="opacity"
+               values="1;0.2;1"
+               dur="3s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="820" cy="55" r="2">
+      <animate attributeName="opacity"
+               values="0.2;1;0.2"
+               dur="2.5s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1100" cy="120" r="2">
+      <animate attributeName="opacity"
+               values="1;0.2;1"
+               dur="3.5s"
+               repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Shooting star -->
+  <g>
+    <line x1="-50" y1="20"
+          x2="20" y2="90"
+          stroke="#ffffff"
+          stroke-width="2"
+          opacity="0">
+      <animate attributeName="x1"
+               values="-50;1250"
+               dur="8s"
+               repeatCount="indefinite"/>
+      <animate attributeName="x2"
+               values="20;1320"
+               dur="8s"
+               repeatCount="indefinite"/>
+      <animate attributeName="y1"
+               values="20;140"
+               dur="8s"
+               repeatCount="indefinite"/>
+      <animate attributeName="y2"
+               values="90;210"
+               dur="8s"
+               repeatCount="indefinite"/>
+      <animate attributeName="opacity"
+               values="0;0;1;0;0"
+               dur="8s"
+               repeatCount="indefinite"/>
+    </line>
+  </g>
+
+</svg>
