@@ -2,11 +2,9 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/falling-stars-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/falling-stars-light.svg">
-    <img src="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/falling-stars-dark.svg" width="100%" alt="" />
+    <img src="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/falling-stars-dark.svg" width="100%" alt="Hey, I'm Maram Jebali" />
   </picture>
 </p>
-
-<h2 align="center">Hey, I'm Maram Jebali.</h2>
 
 <p align="center">
   <a href="https://portfolio-maram-jebali.vercel.app" target="_blank">
