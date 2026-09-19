@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g fill="#ffffff" filter="url(#glow)">
+
+    <circle cx="47"   cy="0" r="1.8" opacity="0.9">
+      <animate attributeName="cy" from="-40" to="240" dur="6.3s"  begin="-2.1s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="47"   to="65"   dur="6.3s"  begin="-2.1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.08;0.9;1" dur="6.3s" begin="-2.1s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="112"  cy="0" r="1.2" opacity="0.6">
+      <animate attributeName="cy" from="-40" to="240" dur="9.7s"  begin="-5.4s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="112"  to="100"  dur="9.7s"  begin="-5.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0.6;0" keyTimes="0;0.08;0.9;1" dur="9.7s" begin="-5.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="178"  cy="0" r="2.1" opacity="1">
+      <animate attributeName="cy" from="-40" to="240" dur="4.8s"  begin="-0.7s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="178"  to="203"  dur="4.8s"  begin="-0.7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.9;1" dur="4.8s" begin="-0.7s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="203"  cy="0" r="0.9" opacity="0.5">
+      <animate attributeName="cy" from="-40" to="240" dur="11.2s" begin="-8.3s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="203"  to="195"  dur="11.2s" begin="-8.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.5;0.5;0" keyTimes="0;0.08;0.9;1" dur="11.2s" begin="-8.3s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="287"  cy="0" r="1.5" opacity="0.85">
+      <animate attributeName="cy" from="-40" to="240" dur="7.4s"  begin="-3.6s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="287"  to="319"  dur="7.4s"  begin="-3.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.08;0.9;1" dur="7.4s" begin="-3.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="341"  cy="0" r="2.3" opacity="1">
+      <animate attributeName="cy" from="-40" to="240" dur="5.1s"  begin="-1.8s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="341"  to="319"  dur="5.1s"  begin="-1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.9;1" dur="5.1s" begin="-1.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="412"  cy="0" r="1.1" opacity="0.55">
+      <animate attributeName="cy" from="-40" to="240" dur="8.9s"  begin="-6.1s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="412"  to="426"  dur="8.9s"  begin="-6.1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.55;0.55;0" keyTimes="0;0.08;0.9;1" dur="8.9s" begin="-6.1s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="458"  cy="0" r="1.7" opacity="0.9">
+      <animate attributeName="cy" from="-40" to="240" dur="6.7s"  begin="-4.2s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="458"  to="440"  dur="6.7s"  begin="-4.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.08;0.9;1" dur="6.7s" begin="-4.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="501"  cy="0" r="2.0" opacity="1">
+      <animate attributeName="cy" from="-40" to="240" dur="5.5s"  begin="-2.7s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="501"  to="529"  dur="5.5s"  begin="-2.7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.9;1" dur="5.5s" begin="-2.7s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="567"  cy="0" r="1.3" opacity="0.65">
+      <animate attributeName="cy" from="-40" to="240" dur="10.3s" begin="-7.4s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="567"  to="557"  dur="10.3s" begin="-7.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.65;0.65;0" keyTimes="0;0.08;0.9;1" dur="10.3s" begin="-7.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="623"  cy="0" r="1.9" opacity="0.95">
+      <animate attributeName="cy" from="-40" to="240" dur="6.0s"  begin="-3.1s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="623"  to="643"  dur="6.0s"  begin="-3.1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.08;0.9;1" dur="6.0s" begin="-3.1s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="689"  cy="0" r="0.8" opacity="0.45">
+      <animate attributeName="cy" from="-40" to="240" dur="12.1s" begin="-9.6s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="689"  to="683"  dur="12.1s" begin="-9.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.45;0.45;0" keyTimes="0;0.08;0.9;1" dur="12.1s" begin="-9.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="724"  cy="0" r="2.2" opacity="1">
+      <animate attributeName="cy" from="-40" to="240" dur="4.5s"  begin="-1.2s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="724"  to="759"  dur="4.5s"  begin="-1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.9;1" dur="4.5s" begin="-1.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="781"  cy="0" r="1.4" opacity="0.7">
+      <animate attributeName="cy" from="-40" to="240" dur="8.2s"  begin="-5.7s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="781"  to="766"  dur="8.2s"  begin="-5.7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0.7;0" keyTimes="0;0.08;0.9;1" dur="8.2s" begin="-5.7s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="834"  cy="0" r="1.6" opacity="0.85">
+      <animate attributeName="cy" from="-40" to="240" dur="7.1s"  begin="-3.9s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="834"  to="856"  dur="7.1s"  begin="-3.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.08;0.9;1" dur="7.1s" begin="-3.9s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="892"  cy="0" r="2.4" opacity="1">
+      <animate attributeName="cy" from="-40" to="240" dur="5.8s"  begin="-2.4s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="892"  to="866"  dur="5.8s"  begin="-2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.9;1" dur="5.8s" begin="-2.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="947"  cy="0" r="1.0" opacity="0.55">
+      <animate attributeName="cy" from="-40" to="240" dur="9.4s"  begin="-6.8s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="947"  to="958"  dur="9.4s"  begin="-6.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.55;0.55;0" keyTimes="0;0.08;0.9;1" dur="9.4s" begin="-6.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1003" cy="0" r="1.8" opacity="0.9">
+      <animate attributeName="cy" from="-40" to="240" dur="6.6s"  begin="-4.5s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="1003" to="984"  dur="6.6s"  begin="-4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.08;0.9;1" dur="6.6s" begin="-4.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1058" cy="0" r="1.5" opacity="0.8">
+      <animate attributeName="cy" from="-40" to="240" dur="7.8s"  begin="-4.9s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="1058" to="1075" dur="7.8s"  begin="-4.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0.8;0" keyTimes="0;0.08;0.9;1" dur="7.8s" begin="-4.9s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1104" cy="0" r="2.0" opacity="1">
+      <animate attributeName="cy" from="-40" to="240" dur="5.3s"  begin="-1.6s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="1104" to="1074" dur="5.3s"  begin="-1.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.9;1" dur="5.3s" begin="-1.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1147" cy="0" r="1.2" opacity="0.6">
+      <animate attributeName="cy" from="-40" to="240" dur="10.8s" begin="-7.9s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="1147" to="1156" dur="10.8s" begin="-7.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0.6;0" keyTimes="0;0.08;0.9;1" dur="10.8s" begin="-7.9s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="121"  cy="0" r="1.7" opacity="0.9">
+      <animate attributeName="cy" from="-40" to="240" dur="6.9s"  begin="-3.4s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="121"  to="105"  dur="6.9s"  begin="-3.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.08;0.9;1" dur="6.9s" begin="-3.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="249"  cy="0" r="2.1" opacity="1">
+      <animate attributeName="cy" from="-40" to="240" dur="5.6s"  begin="-2.8s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="249"  to="273"  dur="5.6s"  begin="-2.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.9;1" dur="5.6s" begin="-2.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="376"  cy="0" r="1.3" opacity="0.65">
+      <animate attributeName="cy" from="-40" to="240" dur="9.1s"  begin="-6.3s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="376"  to="363"  dur="9.1s"  begin="-6.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.65;0.65;0" keyTimes="0;0.08;0.9;1" dur="9.1s" begin="-6.3s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="522"  cy="0" r="1.9" opacity="0.95">
+      <animate attributeName="cy" from="-40" to="240" dur="6.4s"  begin="-3.7s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="522"  to="543"  dur="6.4s"  begin="-3.7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.08;0.9;1" dur="6.4s" begin="-3.7s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="654"  cy="0" r="1.1" opacity="0.55">
+      <animate attributeName="cy" from="-40" to="240" dur="8.5s"  begin="-5.2s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="654"  to="645"  dur="8.5s"  begin="-5.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.55;0.55;0" keyTimes="0;0.08;0.9;1" dur="8.5s" begin="-5.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="798"  cy="0" r="2.3" opacity="1">
+      <animate attributeName="cy" from="-40" to="240" dur="5.0s"  begin="-1.4s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="798"  to="825"  dur="5.0s"  begin="-1.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.9;1" dur="5.0s" begin="-1.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="921"  cy="0" r="1.6" opacity="0.85">
+      <animate attributeName="cy" from="-40" to="240" dur="7.6s"  begin="-4.6s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="921"  to="901"  dur="7.6s"  begin="-4.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.08;0.9;1" dur="7.6s" begin="-4.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1038" cy="0" r="1.4" opacity="0.75">
+      <animate attributeName="cy" from="-40" to="240" dur="8.7s"  begin="-5.9s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="1038" to="1051" dur="8.7s"  begin="-5.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.75;0.75;0" keyTimes="0;0.08;0.9;1" dur="8.7s" begin="-5.9s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1160" cy="0" r="1.9" opacity="0.95">
+      <animate attributeName="cy" from="-40" to="240" dur="6.2s"  begin="-3.3s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="1160" to="1137" dur="6.2s"  begin="-3.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.08;0.9;1" dur="6.2s" begin="-3.3s" repeatCount="indefinite"/>
+    </circle>
+
+  </g>
+</svg>
