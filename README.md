@@ -8,23 +8,6 @@
 
 <h3 align="center">Hey 👋, I'm Maram Jebali.</h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jebali-maram-2182b62a7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:jebali.maram@esprit.tn">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="25" alt="outlook logo" />
-  </a>
-  <a href="mailto:maramjebali711@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://discord.com/users/maramjebali" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
-  </a>
-</div>
-
-<br />
-
 <p align="center">
   <a href="https://portfolio-maram-jebali.vercel.app" target="_blank">
     <img src="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/portfolio-button.svg" alt="Check my Portfolio" height="56" />
@@ -44,7 +27,24 @@
 - 💻 I'm exploring the intersection of **AI and quantum computing**.
 - 🎓 Open to **end-of-study internship opportunities in AI & Software Engineering**.
 
----
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jebali-maram-2182b62a7/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:jebali.maram@esprit.tn">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="25" alt="outlook logo" />
+  </a>
+  <a href="mailto:maramjebali711@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://discord.com/users/maramjebali" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
+  </a>
+</div>
+
+<br />
+
 
 ## My AI Engineering Stack
 
