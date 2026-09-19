@@ -17,21 +17,7 @@
 
 <br />
 
-<br />
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/stars.svg"
-    width="100%"
-    alt="Animated star field"
-  />
-</p>
-
-<br />
-
-<br />
-
-- I am a **Software Engineering student specialized in Artificial Intelligence**.
+- 4th-year **Artificial Intelligence engineering student** at ESPRIT, Tunisia.
 - I started exploring programming and AI through **projects, experiments and hackathons**.
 - Over time, I realized that I genuinely **love exploring new fields, diving into applied mathematics, and discovering research ❤️**.
 
@@ -42,50 +28,141 @@
 - 💻 I'm exploring the intersection of **AI and quantum computing**.
 - 🎓 Open to **end-of-study internship opportunities in AI & Software Engineering**.
 
-<p data-importer="text" align="right"></p>
+---
 
-###
+## 🛠️ My Favourite tools
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=qt" height="30" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=regex" height="30" alt="regex logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
-</div>
+### 👨‍💻 Programming languages
 
-###
+<p>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+</p>
 
-<div data-importer="stats" align="center">
-</div>
+### 🧰 Frameworks and libraries
 
-###
+<p>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white"></a>
+    <a href="#"><img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52.svg?logo=qt&logoColor=white"></a>
+</p>
+
+### 🗄️ Databases and Cloud Hosting
+
+<p>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+</p>
+
+### 💻 Software and tools
+
+<p>
+    <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00.svg?logo=adobeillustrator&logoColor=white"></a>
+    <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF.svg?logo=adobephotoshop&logoColor=white"></a>
+    <a href="#"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?logo=adobepremierepro&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Regex" src="https://img.shields.io/badge/Regex-3C3C3C.svg?logo=regex&logoColor=white"></a>
+</p>
+
+### ⭐ Tech I work with
+
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=py" width="45" height="45" alt="Python" />
+            <br>Python
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" />
+            <br>PyTorch
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" />
+            <br>TensorFlow
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=django" width="45" height="45" alt="Django" />
+            <br>Django
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" />
+            <br>C++
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
+            <br>C
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+            <br>Node.js
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+            <br>Next.js
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
+            <br>MySQL
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+            <br>MongoDB
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=qt" width="45" height="45" alt="Qt" />
+            <br>Qt
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=r" width="45" height="45" alt="R" />
+            <br>R
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=regex" width="45" height="45" alt="Regex" />
+            <br>Regex
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="Adobe Illustrator" />
+            <br>Illustrator
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=ps" width="45" height="45" alt="Adobe Photoshop" />
+            <br>Photoshop
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=pr" width="45" height="45" alt="Adobe Premiere Pro" />
+            <br>Premiere Pro
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+            <br>Git
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+            <br>GitHub
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+            <br>Linux
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" />
+            <br>VS Code
+        </td>
+    </tr>
+</table>
+
+<br />
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaramJebali/MaramJebali/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
@@ -93,20 +170,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MaramJebali/MaramJebali/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
-
-
-###
 <!--
 **MaramJebali/MaramJebali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
