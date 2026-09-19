@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-<h3 align="center">Hey 👋, I'm Maram Jebali.</h3>
+<h2 align="center">Hey, I'm Maram Jebali.</h2>
 
 <p align="center">
   <a href="https://portfolio-maram-jebali.vercel.app" target="_blank">
