@@ -1,4 +1,6 @@
-<h3 align="center">Hey 👋, I'm Maram Jebali.</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/hero.svg" width="100%" alt="Hey, I'm Maram Jebali" />
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jebali-maram-2182b62a7/" target="_blank">
@@ -40,10 +42,6 @@
 
 ## My AI Engineering Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/falling-stars.svg" width="100%" alt="" />
-</p>
-
 ### **Ingest** Data, Scraping & Document Processing
 
 <p>
@@ -53,10 +51,6 @@
     <a href="#"><img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33.svg?logo=playwright&logoColor=white"></a>
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/falling-stars.svg" width="100%" alt="" />
 </p>
 
 ### **Train** AI, ML & Computer Vision
@@ -75,10 +69,6 @@
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/falling-stars.svg" width="100%" alt="" />
-</p>
-
 ### **Retrieve** Agents, RAG & Vector Databases
 
 <p>
@@ -91,10 +81,6 @@
     <a href="#"><img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-FF6B35.svg?logo=databricks&logoColor=white"></a>
     <a href="#"><img alt="FAISS" src="https://img.shields.io/badge/FAISS-0467DF.svg?logo=meta&logoColor=white"></a>
     <a href="#"><img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000.svg?logo=pinecone&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/falling-stars.svg" width="100%" alt="" />
 </p>
 
 ### **Ship** Backend, MLOps & Tools
