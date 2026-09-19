@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140">
+  <g fill="#ffffff">
+    <circle cx="47"   cy="0" r="1.6" opacity="0.85">
+      <animate attributeName="cy" from="-20" to="160" dur="6.3s" begin="-2.1s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="47"   to="66"  dur="6.3s" begin="-2.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="142"  cy="0" r="1.1" opacity="0.55">
+      <animate attributeName="cy" from="-20" to="160" dur="9.4s" begin="-5.2s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="142"  to="130" dur="9.4s" begin="-5.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="228"  cy="0" r="2.0" opacity="1">
+      <animate attributeName="cy" from="-20" to="160" dur="4.9s" begin="-0.8s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="228"  to="252" dur="4.9s" begin="-0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="317"  cy="0" r="0.9" opacity="0.5">
+      <animate attributeName="cy" from="-20" to="160" dur="11.2s" begin="-8.1s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="317"  to="308" dur="11.2s" begin="-8.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="408"  cy="0" r="1.5" opacity="0.8">
+      <animate attributeName="cy" from="-20" to="160" dur="7.4s" begin="-3.6s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="408"  to="440" dur="7.4s" begin="-3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="512"  cy="0" r="2.2" opacity="1">
+      <animate attributeName="cy" from="-20" to="160" dur="5.2s" begin="-1.7s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="512"  to="488" dur="5.2s" begin="-1.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="603"  cy="0" r="1.0" opacity="0.55">
+      <animate attributeName="cy" from="-20" to="160" dur="8.9s" begin="-6.1s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="603"  to="617" dur="8.9s" begin="-6.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="688"  cy="0" r="1.7" opacity="0.9">
+      <animate attributeName="cy" from="-20" to="160" dur="6.7s" begin="-4.2s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="688"  to="668" dur="6.7s" begin="-4.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="784"  cy="0" r="2.0" opacity="1">
+      <animate attributeName="cy" from="-20" to="160" dur="5.5s" begin="-2.7s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="784"  to="812" dur="5.5s" begin="-2.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="872"  cy="0" r="1.3" opacity="0.65">
+      <animate attributeName="cy" from="-20" to="160" dur="10.3s" begin="-7.4s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="872"  to="862" dur="10.3s" begin="-7.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="963"  cy="0" r="1.9" opacity="0.95">
+      <animate attributeName="cy" from="-20" to="160" dur="6.0s" begin="-3.1s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="963"  to="983" dur="6.0s" begin="-3.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1054" cy="0" r="0.8" opacity="0.45">
+      <animate attributeName="cy" from="-20" to="160" dur="12.1s" begin="-9.6s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="1054" to="1048" dur="12.1s" begin="-9.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1138" cy="0" r="2.1" opacity="1">
+      <animate attributeName="cy" from="-20" to="160" dur="4.6s" begin="-1.2s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="1138" to="1172" dur="4.6s" begin="-1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="92"   cy="0" r="1.4" opacity="0.7">
+      <animate attributeName="cy" from="-20" to="160" dur="8.2s" begin="-5.7s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="92"   to="78"  dur="8.2s" begin="-5.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="362"  cy="0" r="1.6" opacity="0.85">
+      <animate attributeName="cy" from="-20" to="160" dur="7.1s" begin="-3.9s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="362"  to="384" dur="7.1s" begin="-3.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="556"  cy="0" r="2.4" opacity="1">
+      <animate attributeName="cy" from="-20" to="160" dur="5.8s" begin="-2.4s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="556"  to="530" dur="5.8s" begin="-2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="732"  cy="0" r="1.0" opacity="0.55">
+      <animate attributeName="cy" from="-20" to="160" dur="9.4s" begin="-6.8s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="732"  to="743" dur="9.4s" begin="-6.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="918"  cy="0" r="1.8" opacity="0.9">
+      <animate attributeName="cy" from="-20" to="160" dur="6.6s" begin="-4.5s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="918"  to="899" dur="6.6s" begin="-4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1088" cy="0" r="1.5" opacity="0.8">
+      <animate attributeName="cy" from="-20" to="160" dur="7.8s" begin="-4.9s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="1088" to="1105" dur="7.8s" begin="-4.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

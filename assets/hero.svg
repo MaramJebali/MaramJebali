@@ -1,41 +1,201 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/hero.svg" width="100%" alt="Hey, I'm Maram Jebali" />
-</p>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480">
+  <defs>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="900" height="480" rx="14"/>
+    </clipPath>
+  </defs>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jebali-maram-2182b62a7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:jebali.maram@esprit.tn">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="25" alt="outlook logo" />
-  </a>
-  <a href="mailto:maramjebali711@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://discord.com/users/maramjebali" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
-  </a>
-</div>
+  <!-- ================= STARS BEHIND ================= -->
+  <g clip-path="url(#clip)" fill="#ffffff">
+    <circle cx="35"  cy="0" r="1.0" opacity="0.7">
+      <animate attributeName="cy" from="-30" to="510" dur="6.2s" begin="-2.1s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="35"  to="55"  dur="6.2s" begin="-2.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="95"  cy="0" r="0.9" opacity="0.55">
+      <animate attributeName="cy" from="-30" to="510" dur="9.1s" begin="-5.3s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="95"  to="80"  dur="9.1s" begin="-5.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="145" cy="0" r="1.2" opacity="0.85">
+      <animate attributeName="cy" from="-30" to="510" dur="4.8s" begin="-0.9s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="145" to="165" dur="4.8s" begin="-0.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="210" cy="0" r="0.8" opacity="0.5">
+      <animate attributeName="cy" from="-30" to="510" dur="11.2s" begin="-8.1s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="210" to="198" dur="11.2s" begin="-8.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="270" cy="0" r="1.1" opacity="0.8">
+      <animate attributeName="cy" from="-30" to="510" dur="7.4s" begin="-3.6s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="270" to="292" dur="7.4s" begin="-3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="320" cy="0" r="1.4" opacity="1">
+      <animate attributeName="cy" from="-30" to="510" dur="5.2s" begin="-1.7s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="320" to="305" dur="5.2s" begin="-1.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="385" cy="0" r="0.9" opacity="0.55">
+      <animate attributeName="cy" from="-30" to="510" dur="8.9s" begin="-6.1s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="385" to="398" dur="8.9s" begin="-6.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="440" cy="0" r="1.2" opacity="0.9">
+      <animate attributeName="cy" from="-30" to="510" dur="6.7s" begin="-4.2s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="440" to="422" dur="6.7s" begin="-4.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="495" cy="0" r="1.3" opacity="1">
+      <animate attributeName="cy" from="-30" to="510" dur="5.5s" begin="-2.7s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="495" to="515" dur="5.5s" begin="-2.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="555" cy="0" r="0.8" opacity="0.5">
+      <animate attributeName="cy" from="-30" to="510" dur="10.3s" begin="-7.4s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="555" to="545" dur="10.3s" begin="-7.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="610" cy="0" r="1.4" opacity="0.95">
+      <animate attributeName="cy" from="-30" to="510" dur="6.0s" begin="-3.1s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="610" to="628" dur="6.0s" begin="-3.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="665" cy="0" r="0.7" opacity="0.45">
+      <animate attributeName="cy" from="-30" to="510" dur="12.1s" begin="-9.6s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="665" to="660" dur="12.1s" begin="-9.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="720" cy="0" r="1.5" opacity="1">
+      <animate attributeName="cy" from="-30" to="510" dur="4.6s" begin="-1.2s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="720" to="742" dur="4.6s" begin="-1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="775" cy="0" r="1.0" opacity="0.7">
+      <animate attributeName="cy" from="-30" to="510" dur="8.2s" begin="-5.7s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="775" to="762" dur="8.2s" begin="-5.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="825" cy="0" r="1.1" opacity="0.85">
+      <animate attributeName="cy" from="-30" to="510" dur="7.1s" begin="-3.9s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="825" to="842" dur="7.1s" begin="-3.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="870" cy="0" r="1.3" opacity="1">
+      <animate attributeName="cy" from="-30" to="510" dur="5.8s" begin="-2.4s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="870" to="855" dur="5.8s" begin="-2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="60"  cy="0" r="1.1" opacity="0.75">
+      <animate attributeName="cy" from="-30" to="510" dur="9.4s" begin="-6.8s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="60"  to="48"  dur="9.4s" begin="-6.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="175" cy="0" r="1.0" opacity="0.65">
+      <animate attributeName="cy" from="-30" to="510" dur="6.6s" begin="-4.5s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="175" to="192" dur="6.6s" begin="-4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="0" r="1.2" opacity="0.8">
+      <animate attributeName="cy" from="-30" to="510" dur="8.3s" begin="-3.2s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="350" to="332" dur="8.3s" begin="-3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="520" cy="0" r="1.0" opacity="0.7">
+      <animate attributeName="cy" from="-30" to="510" dur="10.7s" begin="-6.9s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="520" to="535" dur="10.7s" begin="-6.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="0" r="1.1" opacity="0.8">
+      <animate attributeName="cy" from="-30" to="510" dur="7.3s" begin="-3.4s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="700" to="682" dur="7.3s" begin="-3.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="845" cy="0" r="1.0" opacity="0.75">
+      <animate attributeName="cy" from="-30" to="510" dur="5.3s" begin="-1.8s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="845" to="862" dur="5.3s" begin="-1.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
 
-<br />
+  <!-- ================= HEADING ================= -->
+  <text x="450" y="52" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="30" font-weight="700" fill="#ffffff">
+    Hey 👋, I'm Maram Jebali.
+  </text>
 
-<p align="center">
-  <a href="https://portfolio-maram-jebali.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/portfolio-button.svg" alt="Check my Portfolio" height="56" />
-  </a>
-</p>
+  <!-- ================= SOCIAL BADGES (drawn, not clickable) ================= -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+     font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">
+    <rect x="238" y="78" width="90" height="26" rx="5" fill="#0077B5"/>
+    <text x="283" y="95">LinkedIn</text>
 
-<br />
+    <rect x="336" y="78" width="90" height="26" rx="5" fill="#0078D4"/>
+    <text x="381" y="95">Outlook</text>
 
-- 4th-year **Artificial Intelligence engineering student** at ESPRIT, Tunisia.
-- I started exploring programming and AI through **projects, experiments and hackathons**.
-- Over time, I realized that I genuinely **love exploring new fields, diving into applied mathematics, and discovering research ❤️**.
+    <rect x="434" y="78" width="90" height="26" rx="5" fill="#D14836"/>
+    <text x="479" y="95">Gmail</text>
 
-**Talking about Personal Stuffs:**
+    <rect x="532" y="78" width="90" height="26" rx="5" fill="#7289DA"/>
+    <text x="577" y="95">Discord</text>
+  </g>
 
-- 🌱 I'm currently learning **shaping ready-to-use AI systems**.
-- 🔭 I'm currently interested in building **AI applications for aerospace and quantum technologies**.
-- 💻 I'm exploring the intersection of **AI and quantum computing**.
-- 🎓 Open to **end-of-study internship opportunities in AI & Software Engineering**.
+  <!-- ================= BIO BULLETS ================= -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+     font-size="14" fill="#c9d1d9">
+    <text x="30" y="160">
+      • 4th-year <tspan font-weight="700" fill="#ffffff">Artificial Intelligence engineering student</tspan> at ESPRIT, Tunisia.
+    </text>
+    <text x="30" y="190">
+      • I started exploring programming and AI through <tspan font-weight="700" fill="#ffffff">projects, experiments and hackathons</tspan>.
+    </text>
+    <text x="30" y="220">
+      • Over time, I realized that I genuinely <tspan font-weight="700" fill="#ffffff">love exploring new fields, diving into applied</tspan>
+    </text>
+    <text x="30" y="242">
+      <tspan font-weight="700" fill="#ffffff">mathematics, and discovering research</tspan> ❤️
+    </text>
+  </g>
 
----
+  <!-- ================= PERSONAL STUFFS ================= -->
+  <text x="30" y="298"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="15" font-weight="700" fill="#ffffff">
+    Talking about Personal Stuffs:
+  </text>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+     font-size="14" fill="#c9d1d9">
+    <text x="30" y="332">
+      • 🌱 I'm currently learning <tspan font-weight="700" fill="#ffffff">shaping ready-to-use AI systems</tspan>.
+    </text>
+    <text x="30" y="362">
+      • 🔭 I'm currently interested in building <tspan font-weight="700" fill="#ffffff">AI applications for aerospace</tspan>
+    </text>
+    <text x="30" y="384">
+      <tspan font-weight="700" fill="#ffffff">and quantum technologies</tspan>.
+    </text>
+    <text x="30" y="414">
+      • 💻 I'm exploring the intersection of <tspan font-weight="700" fill="#ffffff">AI and quantum computing</tspan>.
+    </text>
+    <text x="30" y="444">
+      • 🎓 Open to <tspan font-weight="700" fill="#ffffff">end-of-study internship opportunities in AI &amp; Software Engineering</tspan>.
+    </text>
+  </g>
+
+  <!-- ================= STARS IN FRONT (falling ON the text) ================= -->
+  <g clip-path="url(#clip)" fill="#ffffff">
+    <circle cx="130" cy="0" r="1.6" opacity="0.85">
+      <animate attributeName="cy" from="-30" to="510" dur="7.9s" begin="-2.0s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="130" to="115" dur="7.9s" begin="-2.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="280" cy="0" r="1.5" opacity="0.8">
+      <animate attributeName="cy" from="-30" to="510" dur="6.4s" begin="-3.8s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="280" to="298" dur="6.4s" begin="-3.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="0" r="1.7" opacity="0.9">
+      <animate attributeName="cy" from="-30" to="510" dur="8.6s" begin="-5.2s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="400" to="382" dur="8.6s" begin="-5.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="490" cy="0" r="1.4" opacity="0.8">
+      <animate attributeName="cy" from="-30" to="510" dur="5.7s" begin="-1.4s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="490" to="510" dur="5.7s" begin="-1.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="0" r="1.6" opacity="0.85">
+      <animate attributeName="cy" from="-30" to="510" dur="9.2s" begin="-6.3s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="600" to="583" dur="9.2s" begin="-6.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="680" cy="0" r="1.5" opacity="0.8">
+      <animate attributeName="cy" from="-30" to="510" dur="6.8s" begin="-3.5s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="680" to="698" dur="6.8s" begin="-3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="780" cy="0" r="1.7" opacity="0.9">
+      <animate attributeName="cy" from="-30" to="510" dur="7.5s" begin="-4.4s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="780" to="762" dur="7.5s" begin="-4.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="860" cy="0" r="1.4" opacity="0.75">
+      <animate attributeName="cy" from="-30" to="510" dur="5.1s" begin="-0.9s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="860" to="878" dur="5.1s" begin="-0.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

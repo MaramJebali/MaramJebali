@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/hero.svg" width="100%" alt="Hey, I'm Maram Jebali" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/falling-stars-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/falling-stars-light.svg">
+    <img src="https://raw.githubusercontent.com/MaramJebali/MaramJebali/main/assets/falling-stars-dark.svg" width="100%" alt="" />
+  </picture>
 </p>
+
+<h3 align="center">Hey 👋, I'm Maram Jebali.</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jebali-maram-2182b62a7/" target="_blank">
