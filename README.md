@@ -30,9 +30,9 @@
 
 ---
 
-## 🛠️ My AI Engineering Stack
+## My AI Engineering Stack
 
-### 📥 Ingest — Data, Scraping & Document Processing
+###  **Ingest**  Data, Scraping & Document Processing
 
 <p>
     <a href="#"><img alt="Docling" src="https://img.shields.io/badge/Docling-1F70C1.svg?logo=ibm&logoColor=white"></a>
@@ -43,7 +43,7 @@
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-### 🧠 Train — AI, ML & Computer Vision
+### **Train** AI, ML & Computer Vision
 
 <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -59,7 +59,7 @@
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
 </p>
 
-### 🔍 Retrieve — Agents, RAG & Vector Databases
+### **Retrieve** Agents, RAG & Vector Databases
 
 <p>
     <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white"></a>
@@ -73,7 +73,7 @@
     <a href="#"><img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000.svg?logo=pinecone&logoColor=white"></a>
 </p>
 
-### 🚀 Ship — Backend, MLOps & Tools
+### **Ship** Backend, MLOps & Tools
 
 <p>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
