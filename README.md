@@ -29,7 +29,6 @@
 - 🎓 Open to **end-of-study internship opportunities in AI & Software Engineering**.
 
 ---
-
 ## 🛠️ My AI Engineering Stack
 
 ### 👨‍💻 Programming languages
@@ -123,94 +122,96 @@
     <a href="#"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?logo=adobepremierepro&logoColor=white"></a>
 </p>
 
-### ⭐ Tech I work with (animated)
+### ⭐ Tech I work with
 
 <table align="center">
     <tr>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
+            <img src="https://skillicons.dev/icons?i=py" width="45" height="45" alt="Python" />
             <br>Python
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/django-icon.svg" width="55" height="55" alt="Django" />
+            <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" />
+            <br>PyTorch
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" />
+            <br>TensorFlow
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=django" width="45" height="45" alt="Django" />
             <br>Django
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="REST API" />
-            <br>REST API
+            <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" />
+            <br>C++
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript" />
-            <br>JavaScript
+            <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
+            <br>C
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="TypeScript" />
-            <br>TypeScript
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" width="55" height="55" alt="Next.js" />
-            <br>Next.js
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="55" height="55" alt="Node.js" />
+            <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
             <br>Node.js
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" alt="MySQL" />
+            <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+            <br>Next.js
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
             <br>MySQL
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/postgres-icon.svg" width="55" height="55" alt="PostgreSQL" />
-            <br>PostgreSQL
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker" />
-            <br>Docker
+            <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+            <br>MongoDB
         </td>
     </tr>
     <tr>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/git-icon.svg" width="55" height="55" alt="Git" />
-            <br>Git
+            <img src="https://skillicons.dev/icons?i=qt" width="45" height="45" alt="Qt" />
+            <br>Qt
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" height="55" alt="AWS" />
-            <br>AWS
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="55" height="55" alt="GraphQL" />
-            <br>GraphQL
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="55" height="55" alt="Kubernetes" />
-            <br>Kubernetes
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="55" height="55" alt="Redux" />
-            <br>Redux
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
-            <br>Java
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/c-icon.svg" width="55" height="55" alt="C" />
-            <br>C
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" alt="C++" />
-            <br>C++
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/r-icon.svg" width="55" height="55" alt="R" />
+            <img src="https://skillicons.dev/icons?i=r" width="45" height="45" alt="R" />
             <br>R
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/rust-icon.svg" width="55" height="55" alt="Rust" />
-            <br>Rust
+            <img src="https://skillicons.dev/icons?i=regex" width="45" height="45" alt="Regex" />
+            <br>Regex
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="Adobe Illustrator" />
+            <br>Illustrator
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=ps" width="45" height="45" alt="Adobe Photoshop" />
+            <br>Photoshop
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=pr" width="45" height="45" alt="Adobe Premiere Pro" />
+            <br>Premiere Pro
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+            <br>Git
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+            <br>GitHub
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+            <br>Linux
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" />
+            <br>VS Code
         </td>
     </tr>
 </table>
+
+<br />
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaramJebali/MaramJebali/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
