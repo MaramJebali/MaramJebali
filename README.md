@@ -14,7 +14,7 @@
 
 <br />
 
-- 4th-year **Artificial Intelligence engineering student** at ESPRIT, Tunisia.
+- Final-year **Artificial Intelligence engineering student** at ESPRIT, Tunisia.
 - I started exploring programming and AI through **projects, experiments and hackathons**.
 - Over time, I realized that I genuinely **love exploring new fields, diving into applied mathematics, and discovering research ❤️**.
 
@@ -22,7 +22,7 @@
 
 - 🌱 I'm currently learning **shaping ready-to-use AI systems**.
 - 🔭 I'm currently interested in building **AI applications for aerospace and quantum technologies**.
-- 💻 I'm exploring the intersection of **AI and quantum computing**.
+- 💻 I'm exploring the intersection of **AI and quantum computing*
 - 🎓 Open to **end-of-study internship opportunities in AI & Software Engineering**.
 
 
